@@ -3,7 +3,7 @@ import Footer from "../components/Footer";
 import Features from "../components/Features";
 import AboutCounter from "../components/AboutCounter";
 import BlogPage from "../components/blogs/Blogs";
-import RentalServices from "../components/Info&features";
+import RentalServices from "../components/RentalServices";
 import Products from "../components/Products";
 import Hero from "../components/Hero";
 import ThreeD from "../components/ThreeD";
