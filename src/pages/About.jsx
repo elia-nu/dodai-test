@@ -1,7 +1,7 @@
 import React from "react";
 import Features from "../components/Features";
 import AboutCounter from "../components/AboutCounter";
-import RentalServices from "../components/Info&features";
+import InfoFeatures from '../components/InfoFeatures'
 import OurTeam from "../components/OurTeam";
 import Footer from "../components/Footer";
 import Hero from "../components/Hero";
@@ -15,7 +15,7 @@ export default function About() {
       </div>
       <Features />
       <AboutCounter />
-      <RentalServices />
+      <InfoFeatures />
       <ThreeD />
       <OurTeam />
       <FAQ />
